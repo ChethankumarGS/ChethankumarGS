@@ -8,9 +8,9 @@
 
 </div>
 
-<h1 align="center">Hey there, I'm Chethan 👋</h1>
-<h5 align="center">SWE Intern @ Mysa Fintech '26 | Web Development Intern @ TechSonIX Solutions '25 | B.E. Information Science and Engineering, Dayananda Sagar College of Engineering '26</h5>
-<h6 align="center">I'm exploring tech and fascinated by virtualization. I'm interested in building low-latency, scalable applications, cloud infrastructure and database optimization.</h6>
+<h1 align="center">Hey hi, I'm Chethan 👋</h1>
+<h5 align="center">SWE Intern @ Mysa StartUp Fintech '26 | Web Development Intern @ TechSonIX Solutions '25 | B.E. Information Science and Engineering, Dayananda Sagar College of Engineering '26</h5>
+<h6 align="center">right now exploring the corners of the tech and fascinated by the concept of virtualization. interested and expereinced in building low-latency, scalable applications, and love to work closly with cloud infrastructure and database optimization. and I'm open to FTE roles in Cloud computing, Devoops, FUll stack with AI and Dev (web and mobile(IOS and Android) applicationS) roles</h6>
 
 # Tech Stack:
 
