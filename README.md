@@ -46,8 +46,8 @@ Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Opera
 
 # Featured Projects:
 
-**[SchemaDrift](https://github.com/ChethankumarGS/SchemaDrift) - Visual Schema Migration Platform** · C#, .NET, TypeScript, PostgreSQL, AWS, CI/CD · [Live demo](https://schema-drift-nine.vercel.app/)  
-A developer tool for detecting database schema drift across environments. A CLI metadata parser extracts PostgreSQL schema metadata into JSON snapshots, a visual ER canvas shows diffs, and GitHub Actions pipelines support automated migrations. The public repository is a Python/Flask edition: paste two schemas (SQL DDL or JSON) and get a breaking / review / safe report, plus a JSON API for CI checks. Try the [live demo](https://schema-drift-nine.vercel.app/).
+**[SchemaDrift](https://github.com/ChethankumarGS/SchemaDrift)** · Python, Flask · [Live demo](https://schema-drift-nine.vercel.app/)  
+I built this to catch risky database changes before they reach production. Paste two versions of a schema (SQL DDL or JSON) and it lists every change and marks it breaking, review or safe: dropped columns, NOT NULL traps, narrowed types, new unique constraints. It also has a small JSON API so it can run as a CI check, and the diff logic is covered by 27 tests.
 
 **[Campus Connect](https://github.com/ChethankumarGS/CAMPUS-CONNECT)** · TypeScript, Node.js, Express.js, MongoDB · [Live](https://department-ms.vercel.app/)  
 Academic department management platform for courses, learning materials, and user management with role-based access for students, lecturers, and admins. JWT authentication with bcrypt and a responsive UI.
