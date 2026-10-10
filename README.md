@@ -40,9 +40,10 @@
 
 Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Operating Systems (OS) · Computer Networking
 
-# Open Source:
-
-**AKHQ** (Kafka web UI, Java + React) · [PR #3308](https://github.com/tchiotludo/akhq/pull/3308): fix `showBytes()` rendering "NaN undefined" for non-numeric sizes. Number.isFinite guard, unit-index clamping and unit tests. Fixes [#749](https://github.com/tchiotludo/akhq/issues/749). *(Open, awaiting review.)*
+## Open Source Contributions
+- 🔧 honojs/middleware - fixed session invalidation bug in @hono/oidc-auth ([PR #2175](https://github.com/honojs/middleware/pull/2175))
+- 🐛 honojs/hono - found + fixed mount() path bug with parameterized routes ([issue #5546](https://github.com/honojs/hono/issues/5546), fix ready)
+- ⚙️ tchiotludo/akhq - showBytes fix + unit tests ([PR #3308](https://github.com/tchiotludo/akhq/pull/3308))
 
 # Featured Projects:
 
