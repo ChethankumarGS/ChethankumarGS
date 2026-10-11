@@ -10,7 +10,7 @@
 
 <h1 align="center">Hey hi, I'm Chethan 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Java+%7C+Python+%7C+MERN+Stack;Cloud+%26+DevOps+on+AWS;Building+low-latency%2C+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Java+%7C+Python+%7C+MERN+Stack;Cloud+%26+DevOps+on+AWS;Building+low-latency%2C+scalable+systems;Building+Sarathi+-+an+Android+scholarship+app" alt="Typing SVG" />
 </p>
 <h5 align="center">SWE Intern @ Mysa StartUp Fintech '26 | Web Development Intern @ TechSonIX Solutions '25 | B.E. Information Science and Engineering, Dayananda Sagar College of Engineering '26</h5>
 <h6 align="center">right now exploring the corners of the tech and fascinated by the concept of virtualization. interested and experienced in building low-latency, scalable applications, and love to work closely with cloud infrastructure and database optimization. and I'm open to FTE roles in Cloud computing, DevOps, Full stack with AI and Dev (web and mobile(iOS and Android) applications) roles</h6>
@@ -46,6 +46,9 @@ Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Opera
 - ⚙️ tchiotludo/akhq - showBytes fix + unit tests ([PR #3308](https://github.com/tchiotludo/akhq/pull/3308))
 
 # Featured Projects:
+
+**[Sarathi](https://github.com/ChethankumarGS/sarathi)** · React Native, TypeScript, Expo · Android  
+Scholarship finder for Karnataka students - browse 20+ schemes with eligibility filters, save a document checklist per scheme, and get local reminders 7/3/1 days before the last date. Works offline, data refreshes weekly from official portals.
 
 **[SchemaDrift](https://github.com/ChethankumarGS/SchemaDrift)** · Python, Flask · [Live demo](https://schema-drift-nine.vercel.app/)  
 I built this to catch risky database changes before they reach production. Paste two versions of a schema (SQL DDL or JSON) and it lists every change and marks it breaking, review or safe: dropped columns, NOT NULL traps, narrowed types, new unique constraints. It also has a small JSON API so it can run as a CI check, and the diff logic is covered by 27 tests.
