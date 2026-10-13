@@ -47,7 +47,7 @@ Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Opera
 
 # Featured Projects:
 
-**[Sarathi](https://github.com/ChethankumarGS/sarathi)** · React Native, TypeScript, Expo · Android  
+**[Sarathi](https://github.com/ChethankumarGS/sarathi)** · React Native, TypeScript, Expo · Android · [Live demo](https://sarathi-wine.vercel.app/)  
 Scholarship finder for Karnataka students - browse 20+ schemes with eligibility filters, save a document checklist per scheme, and get local reminders 7/3/1 days before the last date. Works offline, data refreshes weekly from official portals.
 
 **[SchemaDrift](https://github.com/ChethankumarGS/SchemaDrift)** · Python, Flask · [Live demo](https://schema-drift-nine.vercel.app/)  
