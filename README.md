@@ -53,8 +53,8 @@ Scholarship finder for Karnataka students - browse 20+ schemes with eligibility 
 **[SchemaDrift](https://github.com/ChethankumarGS/SchemaDrift)** · Python, Flask · [Live demo](https://schema-drift-nine.vercel.app/)  
 I built this to catch risky database changes before they reach production. Paste two versions of a schema (SQL DDL or JSON) and it lists every change and marks it breaking, review or safe: dropped columns, NOT NULL traps, narrowed types, new unique constraints. It also has a small JSON API so it can run as a CI check, and the diff logic is covered by 27 tests.
 
-**[Campus Connect](https://github.com/ChethankumarGS/CAMPUS-CONNECT)** · TypeScript, Node.js, Express.js, MongoDB · [Live](https://department-ms.vercel.app/)  
-Academic department management platform for courses, learning materials, and user management with role-based access for students, lecturers, and admins. JWT authentication with bcrypt and a responsive UI.
+**[Campus Connect](https://github.com/ChethankumarGS/CAMPUS-CONNECT)** · TypeScript, Next.js, Node.js, Express.js, MongoDB, Gemini · [Live](https://campus-connect-psi-eight.vercel.app/)  
+Academic department platform for courses, learning materials and enrollment, with role-based access for students, lecturers and admins (JWT auth, bcrypt). I added an AI course assistant: students ask questions about the PDFs and DOCX files a lecturer uploads and get answers with source citations (retrieval over embeddings with Gemini), and any material can generate a summary and a short quiz.
 
 **[Wanderlust](https://github.com/ChethankumarGS/AIRBNB)** · JavaScript, Node.js, Express.js, EJS, MongoDB  
 Accommodation listing platform with a server-rendered EJS interface and an Express/MongoDB backend.
