@@ -42,8 +42,8 @@ Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Opera
 
 ## Open Source Contributions
 - ✅ keycloak/keycloak - set appVersion in the operator Helm chart, **merged**, ships in 27.0.0 ([PR #53955](https://github.com/keycloak/keycloak/pull/53955), fixes [#53804](https://github.com/keycloak/keycloak/issues/53804))
+- ✅ honojs/middleware - escape less-than signs in serialized page JSON in the inertia middleware, **merged** ([PR #2177](https://github.com/honojs/middleware/pull/2177), fixes [#2176](https://github.com/honojs/middleware/issues/2176))
 - 🔧 honojs/middleware - fix for session invalidation in @hono/oidc-auth, open, under review ([PR #2175](https://github.com/honojs/middleware/pull/2175))
-- 🔧 honojs/middleware - escape less-than signs in serialized page JSON in the inertia middleware, open, under review ([PR #2177](https://github.com/honojs/middleware/pull/2177))
 - ⚙️ tchiotludo/akhq - showBytes fix for NaN and out-of-range values, open, under review ([PR #3308](https://github.com/tchiotludo/akhq/pull/3308))
 - 🐛 honojs/hono - found a mount() path bug with parameterized routes ([issue #5546](https://github.com/honojs/hono/issues/5546))
 
