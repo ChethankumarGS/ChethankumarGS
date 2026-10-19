@@ -41,10 +41,21 @@
 Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Operating Systems (OS) · Computer Networking
 
 ## Open Source Contributions
-- ✅ keycloak/keycloak - set appVersion in the operator Helm chart, **merged**, ships in 27.0.0 ([PR #53955](https://github.com/keycloak/keycloak/pull/53955), fixes [#53804](https://github.com/keycloak/keycloak/issues/53804))
-- ✅ honojs/middleware - escape less-than signs in serialized page JSON in the inertia middleware, **merged** ([PR #2177](https://github.com/honojs/middleware/pull/2177), fixes [#2176](https://github.com/honojs/middleware/issues/2176))
-- 🔧 honojs/middleware - fix for session invalidation in @hono/oidc-auth, open, under review ([PR #2175](https://github.com/honojs/middleware/pull/2175))
-- ⚙️ tchiotludo/akhq - showBytes fix for NaN and out-of-range values, open, under review ([PR #3308](https://github.com/tchiotludo/akhq/pull/3308))
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs_raised-5-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Merged-2-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open-3-DBAB09?style=for-the-badge" />
+</p>
+
+| Status | Project | Change | PR |
+|---|---|---|---|
+| ✅ Merged | keycloak/keycloak | Set appVersion in the operator Helm chart | [#53955](https://github.com/keycloak/keycloak/pull/53955) |
+| ✅ Merged | honojs/middleware | Escape less-than signs in serialized page JSON (inertia) | [#2177](https://github.com/honojs/middleware/pull/2177) |
+| 🟡 Open | keycloak/keycloak | Fix partial group import without a path | [#54029](https://github.com/keycloak/keycloak/pull/54029) |
+| 🟡 Open | honojs/middleware | Session invalidation fix in @hono/oidc-auth | [#2175](https://github.com/honojs/middleware/pull/2175) |
+| 🟡 Open | tchiotludo/akhq | showBytes fix for NaN and out-of-range values | [#3308](https://github.com/tchiotludo/akhq/pull/3308) |
+
 - 🐛 honojs/hono - found a mount() path bug with parameterized routes ([issue #5546](https://github.com/honojs/hono/issues/5546))
 
 # Featured Projects:
