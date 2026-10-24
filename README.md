@@ -8,11 +8,11 @@
 
 </div>
 
-<h1 align="center">Hey hi, I'm Chethan 👋</h1>
+<h1 align="center">Hey hi, I'm Chethan</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Java+%7C+Python+%7C+MERN+Stack;Cloud+%26+DevOps+on+AWS;Building+low-latency%2C+scalable+systems;Building+Sarathi+-+an+Android+scholarship+app" alt="Typing SVG" />
 </p>
-<h5 align="center">SWE Intern @ Mysa StartUp Fintech '26 | Web Development Intern @ TechSonIX Solutions '25 | B.E. Information Science and Engineering, Dayananda Sagar College of Engineering '26</h5>
+<h5 align="center">SWE Intern @ Mysa (Fintech) '26 | Full Stack &amp; DevOps Intern @ TechSonIX Solutions '25 | Full Stack Dev Intern @ InLighnX Global '25 | B.E. Information Science and Engineering, Dayananda Sagar College of Engineering '26</h5>
 <h6 align="center">right now exploring the corners of the tech and fascinated by the concept of virtualization. interested and experienced in building low-latency, scalable applications, and love to work closely with cloud infrastructure and database optimization. and I'm open to FTE roles in Cloud computing, DevOps, Full stack with AI and Dev (web and mobile(iOS and Android) applications) roles</h6>
 
 # Tech Stack:
@@ -34,7 +34,7 @@
 
 ### Databases, Testing & Monitoring
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
 ### Core CS Concepts
 
@@ -43,20 +43,22 @@ Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Opera
 ## Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs_raised-5-58A6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Merged-2-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRs_raised-7-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Merged-4-2EA043?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open-3-DBAB09?style=for-the-badge" />
 </p>
 
 | Status | Project | Change | PR |
 |---|---|---|---|
-| ✅ Merged | keycloak/keycloak | Set appVersion in the operator Helm chart | [#53955](https://github.com/keycloak/keycloak/pull/53955) |
-| ✅ Merged | honojs/middleware | Escape less-than signs in serialized page JSON (inertia) | [#2177](https://github.com/honojs/middleware/pull/2177) |
-| 🟡 Open | keycloak/keycloak | Fix partial group import without a path | [#54029](https://github.com/keycloak/keycloak/pull/54029) |
-| 🟡 Open | honojs/middleware | Session invalidation fix in @hono/oidc-auth | [#2175](https://github.com/honojs/middleware/pull/2175) |
-| 🟡 Open | tchiotludo/akhq | showBytes fix for NaN and out-of-range values | [#3308](https://github.com/tchiotludo/akhq/pull/3308) |
+| Merged | keycloak/keycloak | Set appVersion in the operator Helm chart | [#53955](https://github.com/keycloak/keycloak/pull/53955) |
+| Merged | keycloak/keycloak | Fix partial group import without a path | [#54029](https://github.com/keycloak/keycloak/pull/54029) |
+| Merged | keycloak/keycloak | Show a confirmation after the password is updated in the account console | [#54248](https://github.com/keycloak/keycloak/pull/54248) |
+| Merged | honojs/middleware | Escape less-than signs in serialized page JSON (inertia) | [#2177](https://github.com/honojs/middleware/pull/2177) |
+| Open | keycloak/keycloak | Send the exact flag explicitly in admin console user attribute search | [#54315](https://github.com/keycloak/keycloak/pull/54315) |
+| Open | honojs/middleware | Session invalidation fix in @hono/oidc-auth | [#2175](https://github.com/honojs/middleware/pull/2175) |
+| Open | tchiotludo/akhq | showBytes fix for NaN and out-of-range values | [#3308](https://github.com/tchiotludo/akhq/pull/3308) |
 
-- 🐛 honojs/hono - found a mount() path bug with parameterized routes ([issue #5546](https://github.com/honojs/hono/issues/5546))
+- honojs/hono - found a mount() path bug with parameterized routes ([issue #5546](https://github.com/honojs/hono/issues/5546))
 
 # Featured Projects:
 
@@ -69,7 +71,7 @@ I built this to catch risky database changes before they reach production. Paste
 **[Campus Connect](https://github.com/ChethankumarGS/CAMPUS-CONNECT)** · TypeScript, Next.js, Node.js, Express.js, MongoDB, Gemini · [Live](https://campus-connect-psi-eight.vercel.app/)  
 Academic department platform for courses, learning materials and enrollment, with role-based access for students, lecturers and admins (JWT auth, bcrypt). I added an AI course assistant: students ask questions about the PDFs and DOCX files a lecturer uploads and get answers with source citations (retrieval over embeddings with Gemini), and any material can generate a summary and a short quiz.
 
-**[Wanderlust](https://github.com/ChethankumarGS/AIRBNB)** · JavaScript, Node.js, Express.js, EJS, MongoDB  
+**[Wanderlust](https://github.com/ChethankumarGS/AIRBNB)** · JavaScript, Node.js, Express.js, EJS, MongoDB · [Live demo](https://wanderlust-tan-ten.vercel.app/listings)  
 Accommodation listing platform with a server-rendered EJS interface and an Express/MongoDB backend.
 
 **[Collaborative Task Manager](https://github.com/ChethankumarGS/Collaborative-Task-Manager)** · React, Node.js, Express.js, MongoDB, Socket.io  
